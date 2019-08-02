@@ -2,7 +2,7 @@ package com.clownfish7.jvm.classloader;
 
 /**
  * @author yzy
- * @classname Test9
+ * @classname RealSubject
  * @description TODO
  * @create 2019-07-30 11:02
  */
